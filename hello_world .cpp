@@ -1,12 +1,13 @@
-#include<iostream>
-#include<conio.h>
+#include <iostream>
+#include <conio.h>
 
 using namespace std;
 
-int main ()
+int main()
 {
 	cout << "Hello World!\n";
+	cout << "New Version!\n";
 	getch();
-	
+
 	return 0;
 }
